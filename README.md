@@ -2,14 +2,21 @@
 
 📌 Project Overview
 
+
 The Student Grade Tracker is a Java-based application designed to help users manage and analyze student academic performance efficiently. The project allows users to enter student details and grades, store records using ArrayLists, and generate useful statistics such as average, highest, and lowest scores. The project demonstrates practical implementation of:
 
 Object-Oriented Programming (OOP)
+
 Arrays and ArrayLists
+
 User Input Handling
+
 Data Processing and Analysis
+
 Report Generation
+
 Console-Based Application Development This project was developed as part of an internship task.
+
 
 🚀 Features
 
@@ -18,11 +25,17 @@ Console-Based Application Development This project was developed as part of an i
 🛠️ Technologies Used
 
 Java
+
 Scanner Class
+
 ArrayList
+
 OOP Concepts
+
 Loops and Conditional Statements
+
 Methods and Functions
+
 
 📂 Project Structure
 
@@ -35,6 +48,7 @@ StudentGradeTracker.java Student.java (optional) README.md
 2️⃣ Grade Analysis Calculate Average Score Find Highest Score Find Lowest Score Count Total Students
 
 3️⃣ Generate Summary Report Display Student Names and Grades Show Average Score Show Highest Score Show Lowest Score Show Total Number of Students
+
 
 Sample Output:
 
@@ -56,15 +70,23 @@ Lowest Score : 78
 
 Total Students: 3
 
+
 🎯 Learning Outcomes
 
 This project demonstrates:
 
 Java application development
+
 Working with Arrays and ArrayLists
+
 Object-Oriented Programming concepts
+
 Data storage and management
+
 Statistical calculations and analysis
+
 Report generation
+
 Console-based user interaction
+
 Clean and structured Java coding practices :::
